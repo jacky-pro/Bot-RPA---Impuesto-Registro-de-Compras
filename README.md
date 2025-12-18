@@ -46,16 +46,10 @@ Portal SUNAT → Consolidación → Reporte Final
 ### Interfaz Dynamics 365
 *Descarga de reportes con filtros de fecha*
 
-<img width="377" height="417" alt="Image" src="https://github.com/user-attachments/assets/13ee1ad1-6506-439b-8bd6-723ce7a5f4fc" />
-
 ### Portal SUNAT - Carga Masiva
 *Interfaz de carga masiva de archivos TXT*
 
-<img width="402" height="400" alt="Image" src="https://github.com/user-attachments/assets/fd6fd0d1-63b0-4fac-8a48-d5a5c9b82d85" />6
-
 ## Programación de Ejecución
-
-<img width="751" height="224" alt="Image" src="https://github.com/user-attachments/assets/a92730b0-187b-46de-8ad7-9e2f64d38571" />
 
 - **Frecuencia**: Todos los miércoles
 - **Hora**: 9:00 AM
